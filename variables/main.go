@@ -23,7 +23,14 @@ func main()  {
 	const age  =  12;
 	fmt.Print(age)
 	
+	// const grouping
 
+	const (
+		port = 5000
+		host = "localhost"
+	)
+
+	fmt.Print(port,host)
 
 
 }
