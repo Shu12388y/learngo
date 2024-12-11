@@ -19,6 +19,11 @@ func main()  {
 	fmt.Println(names);
 
 
+	// define constant
+	const age  =  12;
+	fmt.Print(age)
+	
+
 
 
 }
